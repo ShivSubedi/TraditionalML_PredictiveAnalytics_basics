@@ -1,8 +1,8 @@
-This directory will contain:
+**This directory will contain:**
 1. the data which will be tested to be fitted with linear regression model
 2. analysis script building the linear regression model
 
-Analytis steps of Simple Linear Regression Example
+**Analytis steps of Simple Linear Regression Example:**
 - Step 1: Import the relevant libraries
 - Step2: Load the Data
 - Step 3: Descriptive Statistics
@@ -20,7 +20,7 @@ Analytis steps of Simple Linear Regression Example
 - Step 7: How to address the above violations in linearity assumption
 
 
-What to look-out in the summary?
+**What to look-out in the summary?**
 
 - A) Model Fit Strength (R-squared & Adjusted R-squared):
 
