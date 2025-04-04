@@ -1,7 +1,5 @@
-# TraditionalML_PredictiveAnalytics_basics
-This repo will hold the basic implementation of various Traditional Machine Learning (Predictive Analytics) techniques:
-1. Linear Regression
-2. Logistic Regression
-3. Cluster Analysis
-4. Factor Analysis
-5. Time Series Analysis
+This directory 'Linear Regression' will host the various test cases for:
+- Simple Linear Regression Model
+- Multiple Linear Regression Model
+
+
