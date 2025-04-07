@@ -1,5 +1,6 @@
 
 #Bulding a Multiple Regression Model (Population Model) with categorical variable
+
 We build a multiple regression model upon the 'simple regression model'. 
 The data contains 'SAT' and 'GPA' parameters (like in the simple linear regression model), and now to explore the multiple regression model case, a new parameter (independent variable) is also included called as the 'Attendance'.
 
